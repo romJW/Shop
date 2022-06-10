@@ -42,6 +42,8 @@ export default{
     components:{
         formInput,
         Button
-    }
+        
+    },
+    props:['text','placeholder',"number"]
 }
 </script>
