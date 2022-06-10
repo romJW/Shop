@@ -1,6 +1,7 @@
 <template>
-  <div class="form-block flex bg-no-repeat  bg-[url(../assets/img/imgForm.png)]">
-    <div class="form-block__text-section ml-[971px]">
+  <div class="form-block  pt-[106px] bg-no-repeat  bg-[url(../assets/img/imgForm.png)]">
+    <div class="ml-[971px] flex">
+    <div class="form-block__text-section ">
       <h3 class="text-[40px] font-bold leading-[53px]">
         Оставьте заявку <br />
         на бесплатную <br />
@@ -29,6 +30,7 @@
       </div>
       
     </form>
+  </div>
   </div>
 </template>
 
